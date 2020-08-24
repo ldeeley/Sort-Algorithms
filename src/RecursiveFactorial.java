@@ -6,7 +6,7 @@ public class RecursiveFactorial {
 
     public static int recursiveFactorial(int num){
 
-        if (num==0){
+        if (num==0){   //base case
             return 1;
         }
 
