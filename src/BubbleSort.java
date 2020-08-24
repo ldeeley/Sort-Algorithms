@@ -4,6 +4,7 @@ public class BubbleSort {
 
         //O(n squared) time complexity - quadratic - see nested for loops
         //least efficient sort algorithm for sorting, algorithm degrades quickly
+        //example
 
         int[] intArray = { 20, 35, -15, 7, 55, 1, -22};
 
