@@ -2,6 +2,9 @@ public class BubbleSort {
 
     public static void main(String[] args) {
 
+        //O(n squared) time complexity - quadratic - see nested for loops
+        //least efficient sort algorithm for sorting, algorithm degrades quickly
+
         int[] intArray = { 20, 35, -15, 7, 55, 1, -22};
 
         for (int lastUnsortedIndex = intArray.length -1; lastUnsortedIndex > 0; lastUnsortedIndex--){
